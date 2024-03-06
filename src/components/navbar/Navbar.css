@@ -1,0 +1,43 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #FFF;
+    padding: 15px 7%;
+    transition: 0.5s;
+}
+
+.navbar a {
+    all: unset;
+}
+
+.logo {
+    width: 200px;
+    cursor: pointer;
+}
+
+.nav-list {
+    flex: 1;
+    list-style: none;
+    text-align: left;
+    padding-left: 50px;
+}
+
+.nav-list li {
+    display: inline-block;
+    margin: 10px 50px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.toggle-icon {
+    width: 50px;
+    cursor: pointer;
+    margin-left: 40px;
+}
+
+.dark .navbar {
+    background: #000;
+    color: #fff;
+}

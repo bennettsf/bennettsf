@@ -1,0 +1,9 @@
+.introduction {
+    position: relative;
+    max-width: 70%;
+    border: solid 1px var(--primary-text-color);
+    padding: 20px;
+    display: block;
+    margin-left: 425px;
+}
+
