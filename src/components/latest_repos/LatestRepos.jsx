@@ -27,7 +27,7 @@ function LatestRepos() {
 
   return (
     <div className='latest-repos'>
-        <h2>Latest Repository Updates</h2>
+        <h2>Latest Repository Updates:</h2>
         <ul>
           {repos.map((repo) => (
             <a href={repo.html_url} target='_blank'>
