@@ -7,7 +7,7 @@ You can access the static version of the webpage here: https://bennettsf.github.
 - Implementation of Dark and Light mode of the site.
   
 ### In Progress:
-- I am currently working on getting the page running on an AWS server so other features are available.
+- I am currently working on getting the page running on an AWS server so other dynamic features can be available.
 
 # React + Vite
 
