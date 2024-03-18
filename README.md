@@ -1,6 +1,13 @@
-# My Personal Webpage
-### Welcome to my repository!
-I plan to update this project frequently to share my journey in Computer Science/Application Development through this React Application.
+### Welcome to my Personal Website Respository!
+I plan to update this project frequently to share my journey in Computer Science/Application Development.
+You can access the static version of the webpage here: https://bennettsf.github.io/bennettsf/
+
+### Recent Changes/Additions
+- Utilization of GitHub’s API to create a dynamic list component of my recently updated repositories. 
+- Implementation of Dark and Light mode of the site.
+  
+### In Progress:
+- I am currently working on getting the page running on an AWS server so other features are available.
 
 # React + Vite
 
