@@ -4,11 +4,11 @@ I plan to update this project frequently to share my journey in Computer Science
 You can access the static version of the webpage here: https://bennettsf.github.io/bennettsf/
 
 ### Recent Changes/Additions
-- Utilization of GitHub’s API to create a dynamic list component of my recently updated repositories. 
+- Utilization of GitHub’s API to create a list component of my recently updated repositories. 
 - Implementation of Dark and Light mode of the site.
   
 ### In Progress:
-- I am currently working on getting the page running on an AWS server so other dynamic features can be available.
+- I am currently working on getting the page running on an AWS server so other features can be available.
 
 # React + Vite
 
