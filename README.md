@@ -1,5 +1,6 @@
 ### Welcome to my Personal Website Respository!
 I plan to update this project frequently to share my journey in Computer Science/Application Development.
+
 You can access the static version of the webpage here: https://bennettsf.github.io/bennettsf/
 
 ### Recent Changes/Additions
