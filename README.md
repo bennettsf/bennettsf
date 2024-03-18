@@ -9,6 +9,7 @@ You can access the static version of the webpage here: https://bennettsf.github.
   
 ### In Progress:
 - I am currently working on getting the page running on an AWS server so other features can be available.
+- Addition of a footer to provide contact info, etc.
 
 # React + Vite
 
