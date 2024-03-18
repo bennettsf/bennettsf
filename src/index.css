@@ -35,9 +35,9 @@ body {
 
 [data-theme='dark'] {
   --primary-text-color: #fff;
-  --secondary-text-color: #000;
+  --secondary-text-color: #000000;
   --primary-container-color: 218, 218, 218;
-  --secondary-container-color: 103, 103, 103;  
+  --secondary-container-color: 29, 29, 29;  
 }
 
 .card-content {
