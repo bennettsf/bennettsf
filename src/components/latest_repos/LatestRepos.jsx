@@ -30,11 +30,11 @@ function LatestRepos() {
         <h2>Latest Repository Updates:</h2>
         <ul>
           {repos.map((repo) => (
-            <a href={repo.html_url} target='_blank'>
-              <li key={repo.id}>
+            <li key={repo.id}>
+              <a href={repo.html_url} target='_blank'>
                 <span>{repo.name}</span>
-              </li>
-            </a>
+              </a>
+            </li>
           ))}
         </ul>
     </div>
