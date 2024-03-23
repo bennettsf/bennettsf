@@ -1,15 +1,16 @@
 ### Welcome to my Personal Website Respository!
 I plan to update this project frequently to share my journey in Computer Science/Application Development.
 
-You can access the static version of the webpage here: https://bennettsf.github.io/bennettsf/
+You can access the webpage here: https://www.bennettsf.net
 
 ### Recent Changes/Additions
 - Utilization of GitHub’s API to create a list component of my recently updated repositories. 
 - Implementation of Dark and Light mode of the site.
+- App is now up and running using AWS Amplify (03/23/24)
   
 ### In Progress:
-- I am currently working on getting the page running on an AWS server so other features can be available.
-- Addition of a footer to provide contact info, etc.
+- Footer to provide contact info, etc.
+- Additional pages, would like to learn Matter.js and create something cool!
 
 # React + Vite
 
