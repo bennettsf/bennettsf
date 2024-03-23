@@ -3,14 +3,12 @@
 }
 
 .latest-repos {
-  position: relative;
   max-width: 30%;
-  padding: 10px;
+  padding: 20px;
   display: block;
-  float: left;
-  margin: 0 auto;
+  box-sizing: border-box;
   border-bottom: solid;
-  border-color: var(--primary-text-color);
+  border-color: #00ff9d;
 }
 
 .latest-repos h2 {

@@ -21,7 +21,7 @@
     list-style: none;
     text-align: left;
     padding-left: 50px;
-    color: var(--primary-text-color)
+    color: rgb(41, 41, 41)
 }
 
 .nav-list li {
@@ -32,15 +32,14 @@
     padding: 15px;
     border-radius: 1px 20%;
     border-style: solid;
-    border-color: var(--primary-text-color);
+    border-color: rgb(41, 41, 41);
     text-decoration: underline;
     box-shadow: 5px 5px 10px rgb(177, 177, 177);
 }
 
 .nav-list li:hover{
     background: rgba(0,0,0,0.06);
-    color: var(--secondary-text-color);
-    border-color: var(--secondary-text-color);
+    border-color: #00ff9d;
     transition: 0.5s;
 }
 

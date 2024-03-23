@@ -2,10 +2,9 @@
     position: relative;
     max-width: 70%;
     padding: 20px;
-    display: block;
-    margin: 0 auto;
     border-bottom: solid;
-    border-color: var(--primary-text-color);
+    border-color: #00ff9d;
+    box-sizing: border-box;
 }
 
 .introduction p {

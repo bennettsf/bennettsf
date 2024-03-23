@@ -31,21 +31,24 @@ const App = () => {
           <Introduction />
           <Coursework />
           <div className='card-content'>
+            <h2>Past Projects:</h2>
+            <div className="github-cards-container">
             <GithubCard 
-              repoName={'IronForgedBot'}
-              logo={discordpy}
-              link={'https://github.com/rmbarron/IronForgedBot'}
-            />
-            <GithubCard 
-              repoName={'WordGame'}
-              logo={wordgame}
-              link={'https://github.com/bennettsf/WordGame'}
-            />
-            <GithubCard 
-              repoName={'PersonalPage'}
-              logo={personalpage}
-              link={'https://github.com/bennettsf/bennett-react'}
-            />
+                repoName={'PersonalPage'}
+                logo={personalpage}
+                link={'https://github.com/bennettsf/bennett-react'}
+              />  
+              <GithubCard 
+                repoName={'IronForgedBot'}
+                logo={discordpy}
+                link={'https://github.com/rmbarron/IronForgedBot'}
+              />
+              <GithubCard 
+                repoName={'WordGame'}
+                logo={wordgame}
+                link={'https://github.com/bennettsf/WordGame'}
+              />          
+            </div>
           </div>
         </div>
       </div>
