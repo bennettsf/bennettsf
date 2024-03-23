@@ -26,7 +26,7 @@ body {
 }
 
 :root {
-  --primary-text-color: #000;
+  --primary-text-color: #292929;
   --secondary-text-color: #fff;
   --primary-container-color: 103, 103, 103;
   --secondary-container-color: 218, 218, 218; 
@@ -41,25 +41,38 @@ body {
 }
 
 .card-content {
-  max-width: 70%;
+  width: 70%; /* Set the width for Coursework and card-content */
   padding: 20px;
+  box-sizing: border-box; /* Include padding in the width calculation */
+  gap: 20px;
+}
+
+.card-content h2 {
+  text-align: center;
+}
+
+.github-cards-container {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px; /* Adjust the gap between cards */
+  align-items: center;
 }
 
 .content {
   width: 80%; /* Adjust the width according to your preference */
    /* Set a maximum width to prevent it from becoming too wide */
   padding: 20px;
-  margin: 30px;
+  margin: 30px auto;
   margin-top: 260px;
-  overflow: hidden;
+
   display: flex;
   background-color: rgba(var(--secondary-container-color), 0.85);
   border-radius: 2em;
   transition: 0.3s;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
   flex-wrap: wrap;
-  overflow: auto;
+  /* overflow: auto; */
 }
 
 .content h2, .content h3, .content h1 {
