@@ -59,6 +59,7 @@ body {
   transition: 0.3s;
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
   flex-wrap: wrap;
+  overflow: auto;
 }
 
 .content h2, .content h3, .content h1 {
