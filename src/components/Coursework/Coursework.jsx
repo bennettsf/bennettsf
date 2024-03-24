@@ -11,6 +11,13 @@ function Coursework() {
             <li>Web Application Development</li>
             <li>Database Technology</li>
           </ul>
+          <h2>Skills:</h2>
+          <ul>
+            <li>Javascript, Python, Java, SQL, and HTML/CSS</li>
+            <li>React, Node.js, Nest.js, and Express</li>
+            <li>Git, Github, Windows, and Linux</li>
+            <li>MySQL, MongoDB (NoSQL), and PostgreSQL</li>
+          </ul>
     </div>
   )
 }

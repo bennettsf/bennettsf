@@ -31,7 +31,7 @@ const App = () => {
           <Introduction />
           <Coursework />
           <div className='card-content'>
-            <h2>Past Projects:</h2>
+            <h2>Current & Past Projects:</h2>
             <div className="github-cards-container">
             <GithubCard 
                 repoName={'PersonalPage'}
