@@ -25,7 +25,7 @@
   color: var(--primary-text-color);
   list-style: none;
   margin: 4px 0;
-  border-left: 2px solid var(--primary-container-color);
+  border-left: 2px solid #00ff9d;
   cursor: pointer;
 }
 
